@@ -1,0 +1,5 @@
+git clone http://github.com/titanteams/tabchi
+cd tabchi
+chmod +x bot
+./bot install
+[y]
